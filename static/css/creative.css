@@ -246,6 +246,11 @@ header .header-content .header-content-inner p {
         max-width: 1000px;
     }
 
+    header .header-content .header-content-inner img {
+        height: 200px;
+        width: 200px;
+    }
+
     header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
